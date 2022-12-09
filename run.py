@@ -1,4 +1,4 @@
-# Encoded By : MAHADI HASAN AFRIDI
+# Encoded By : AKASH MAHAMUD 
 # Encryption : Py3 Marshal
 # Py3 Version : 3.11
 
